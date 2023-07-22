@@ -10,9 +10,16 @@ public static void main (string [] args)
 int number1;
 number1=12;
 number1=127;
+number1=8000;
 byte numbr2;
+number2=88;
+number2=80;
 short number3;
+number3=796;
+number3=330;
 long longNumber;
+longNumber=30000000000l
+System.out.println(longNumber);
 }
 //varible
 //strangly typed
