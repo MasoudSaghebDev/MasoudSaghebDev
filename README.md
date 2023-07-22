@@ -36,7 +36,7 @@ boolean myBoolean;
 myBoolean=true;
 myBoolean=false;
 
-char ch='e';
+char ch='\\';
 Syetem.out.println(ch);
 }
 //varible
