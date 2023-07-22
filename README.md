@@ -37,7 +37,12 @@ myBoolean=true;
 myBoolean=false;
 
 char ch='\\';
-Syetem.out.println(ch);
+char ch='e';
+
+
+System.out.println(ch);
+System.out.println(e);
+
 }
 //varible
 //strangly typed
