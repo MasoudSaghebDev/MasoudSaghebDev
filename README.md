@@ -19,7 +19,24 @@ number3=796;
 number3=330;
 long longNumber;
 longNumber=30000000000l;
-System.out.println(number1);
+
+System.out.println(longNumber);
+
+float fNumber=1.2f;
+double dNumber=1.2;
+
+//type name=value
+
+int myNumber=452;
+
+int i=220,j=330,t=8;
+
+boolean myBoolean;
+myBoolean=true;
+myBoolean=false;
+
+char ch='e';
+Syetem.out.println(ch);
 }
 //varible
 //strangly typed
