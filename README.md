@@ -37,10 +37,12 @@ myBoolean=true;
 myBoolean=false;
 
 char ch='\'';
+char ch='\"';
 char ch='e';
 
 
 System.out.println(');
+System.out.println(");
 System.out.println(e);
 
 }
