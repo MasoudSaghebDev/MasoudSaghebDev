@@ -20,6 +20,7 @@ number3=330;
 long longNumber;
 longNumber=30000000000l;
 
+System.out.println(number1);
 System.out.println(longNumber);
 
 float fNumber=1.2f;
